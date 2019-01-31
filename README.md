@@ -2,7 +2,7 @@
  * Rotary encoder template library for Arduino.
  * Vital HB Software - 2019
  * Based on the work of Brian Low: https://github.com/brianlow/Rotary
- * Depends on Port_IO library.
+ * Depends on Port_IO library. https://github.com/Vitalhb/VHB_Utils
  * You can use the library templateButtons to manage the button of the encoder and any other buttons in your project.
  *
  * Declare the interrupt handler
